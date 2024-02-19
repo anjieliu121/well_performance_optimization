@@ -1,0 +1,7 @@
+UT_Comp_Seq.xlsx - original excel file
+
+UT_Comp_Seq_clean.csv
+
+UT_Comp_Seq_encode.csv
+
+lstm_500.csv - data for 500 realization
